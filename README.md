@@ -1,9 +1,5 @@
 
 
+https://github.com/daniyardautbaev/AndroidLab2/assets/122874249/b27abb80-12b1-465d-8065-489eef00fe86
 
-https://github.com/QuanyshK/AndroidLab2/assets/123051095/17997eff-65ac-41a6-84a5-f03d570e5d60
-<div >
-<img width = 270 height = 600 src = "assets/first.jpg"/>
-<img width = 270 height = 600 src = "assets/second.jpg"/>
-</div>
-
+Some data is null because this information is not available on the site itself
